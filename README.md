@@ -15,6 +15,7 @@ specification
    (a multiplexer)
  - be able to specify the function/program to use during map
  - set the number of cores to use during computation
+ - set the number of blocks to read at once (default to 1)
 
 TODO
 ====
