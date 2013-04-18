@@ -17,6 +17,15 @@ specification
  - set the number of cores to use during computation
  - set the number of blocks to read at once (default to 1)
 
+dependencies
+============
+
+- OCaml
+- OCaml batteries for an extended library
+- Parmap for parallelization
+- OPAM for packaging
+- obuild would be nice to compile
+
 TODO
 ====
 
